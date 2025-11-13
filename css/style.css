@@ -142,9 +142,32 @@ a {
 .topodetalhes {
     flex-direction: row;
     align-items: center;
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 30px;
+    }
 }
 
-.asidedetalhes {}
+.asidedetalhes {
+    p {
+        font-size: 24px;
+    }
+    margin-left: 70px;
+}
+
+.infodetalhes {
+    flex-direction: column;
+    p {
+        margin-block: 3px;
+    }
+    margin-bottom: 68px;
+}
+
+.precodetalhes {
+    color: #69FF91;
+}
 
 .adicionarcarrinho {
     flex-direction: row;
