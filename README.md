@@ -1,9 +1,5 @@
 # Loja de Roupas - Desenvolvimento Web 1
 
-<head>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
 **Aluno:** Willyam Andrade Medeiros  
 **Semestre:** S4 2025.2
 
@@ -11,20 +7,19 @@
 **Projeto de protótipo:** [Protótipo](https://www.figma.com/proto/leUJctolvcULNg06n4AsYr/Layout-Site-de-Roupas)  
 **Projeto finalizado:** [Loja de Roupas](https://willyamandrade.github.io/Loja-de-Roupas-Web1/index.html)
 
-<div class="imagens">
-    <img src="prints/inicio-figma.png">
-    <img src="prints/inicio-final.png">
-</div>
+## Página de início
+<img src="prints/inicio-figma.png">
+<img src="prints/inicio-final.png">
 
-<div class="imagens">
-    <img src="prints/detalhes-figma.png">
-    <img src="prints/detalhes-final.png">
-</div>
+## Página de detalhes
+<img src="prints/detalhes-figma.png">
+<img src="prints/detalhes-final.png">
 
-<div class="imagens">
-    <img src="prints/contato-figma.png">
-    <img src="prints/contato-final.png">
-</div>
+## Página de contato
+<img src="prints/contato-figma.png">
+<img src="prints/contato-final.png">
+ 
+<br>
 
 # Diferenças:
 * Como o protótipo do Figma foi desenvolvido com uma resolução de tela em mente, o conteúdo principal da versão final ficou um pouco *afastado* do header e footer;
@@ -33,7 +28,9 @@
 * Na página finalizada de contato, o conteúdo principal ficou mais afastado do footer em comparação com o header;
 * O segundo item da página de início "bugou" no protótipo.
 
-# Informações
+<br>
+
+# Informações do projeto
 
 ```
 Desenvolvimento Web I
